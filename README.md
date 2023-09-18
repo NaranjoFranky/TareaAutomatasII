@@ -1,4 +1,4 @@
-#Introducing TareaAutomatasII
+# Introducing TareaAutomatasII
 
 This user interface has been designed to facilitate the use of our lexical analyzer, which is an essential tool in source code analysis. The lexical analyzer is responsible for decomposing the code into tokens or lexical units.
 
@@ -10,7 +10,7 @@ This user interface has been designed to facilitate the use of our lexical analy
         CONSTANTE("\\b(pi|e)"),
         ANÓNIMO("^(?!(pi|e)$)[^W-Zw-z0-9*/^/+\\-].*$");
 
-#Download and Installation of  TareaAutomatasII
+# Download and Installation of  TareaAutomatasII
 
 Follow the steps below to download and install TareaAutomatasII on your system:
 
