@@ -54,8 +54,12 @@ Follow the steps below to download and install TareaAutomatasII on your system:
 
 - Examples of use:
 
-1.  6 / 9 * 4 
+1.  6 / 9 * 4
+
+
 ![](https://i.ibb.co/6XNFPJw/Captura-de-pantalla-20230917-060221.png)
+
+
 ![](https://i.ibb.co/qJnBKyM/Captura-de-pantalla-20230917-060348.png)
 
  # I wish you success in your installation
