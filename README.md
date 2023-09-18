@@ -15,7 +15,7 @@ This user interface has been designed to facilitate the use of our lexical analy
 Follow the steps below to download and install TareaAutomatasII on your system:
 
 - Access the GitHub repository of TareaAutomatasII: TareaAutomatasII Repository.
-- In the TareaAutomatasII repository, go to the "releases" section and download the latest version of TareaAutomatasII in ZIP format.
+- In the TareaAutomatasII repository, go to the "Code" section and download the latest version of TareaAutomatasII in ZIP format.
 - Unzip the downloaded ZIP file to a location of your choice.
 
 - Once downloaded, unzip it and locate the installer folder and run it as administrator.
